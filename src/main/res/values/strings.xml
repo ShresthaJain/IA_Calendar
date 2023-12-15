@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signuphere">Don\'t have an account? Sign up here!</string>
+    <string name="signup">Sign Up</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have a login?</string>
+    <string name="spotify_integration">Integration Screen</string>
+    <string name="spotify_text">Use the email entered for sign up?</string>
+    <string name="spotify_email">Use the email entered at login</string>
+    <string name="login_spotify">Connect to apps</string>
+    <string name="spotify_text_info">By connecting to Spotify you are allowing us to: \n Access your listening data \n View the artists you follow</string>
+    <string name="ClientID">72969bb9687240daa435d17632dfe53f</string>
+    <string name="com_auth0_domain">dev-u0z5uo6z.us.auth0.com</string>
+    <string name="title_activity_login_spotify">LoginActivity_spotify</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
