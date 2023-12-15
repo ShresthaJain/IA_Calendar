@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#eba1ff</color>
+    <color name="colorAccent2">#d0e6a8</color>
+    <color name="ct_toolbar_color">#BE8C88</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#EBA1FF</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#eba1ff</color>
+    <color name="teal_700">#eba1ff</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="ClientID">72969bb9687240daa435d17632dfe53f</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">LoginRegister</string>
+    <string name="com_auth0_domain">dev-u0z5uo6z.us.auth0.com</string>
+    <string name="email">Email</string>
+    <string name="fullname">Full Name</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login">Login</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_spotify">Connect to apps</string>
+    <string name="loginhere">Already have a login?</string>
+    <string name="password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="signuphere">Don\'t have an account? Sign up here!</string>
+    <string name="spotify_email">Use the email entered at login</string>
+    <string name="spotify_integration">Integration Screen</string>
+    <string name="spotify_text">Use the email entered for sign up?</string>
+    <string name="spotify_text_info">By connecting to Spotify you are allowing us to: \n Access your listening data \n View the artists you follow</string>
+    <string name="title_activity_login_spotify">LoginActivity_spotify</string>
+    <string name="username">Username</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="Theme.LoginRegister" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
